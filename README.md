@@ -16,10 +16,12 @@ Sirtuins readings (Sirtfood diet): [https://www.sciencedirect.com/topics/medicin
 
 [Alpine Marmot Genome by Gossmann et al., Current Biology, 2019 (PDF)](Alpine_Marmot_Genome_2019_Current_Biology.pdf)
 
-Selected newspaper coverage
+### Selected newspaper coverage
 
 (Earth.com)[https://www.earth.com/news/climate-change-low-genetic-diversity/]
+
 (ScienceDaily)[https://www.sciencedaily.com/releases/2019/05/190524102757.htm]
+
 (TechTimes)[https://www.techtimes.com/articles/243749/20190527/alpine-marmot-lost-its-genetic-diversity-due-to-climate-change.htm]
 
 
