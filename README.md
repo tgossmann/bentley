@@ -2,6 +2,9 @@
 
 ## Presentation
 
+Bielefeld: https://en.wikipedia.org/wiki/Bielefeld_Conspiracy
+Sirtuins readings (Sirtfood diet): https://www.sciencedirect.com/topics/medicine-and-dentistry/sirtuin
+
 ## GWAS
 
 [GWAS study by Hill et al., 2019, Nature Communications (PDF)](GWAS_Income_2019_NatComm.pdf)
